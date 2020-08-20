@@ -52,5 +52,5 @@ git push origin master
 # Submodule help
 To update the changes from the main repository:
 ```bash
-git submodule update --remote ThisRepo
+git submodule update --remote Evaluacion_2020-2
 ```
