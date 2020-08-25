@@ -11,6 +11,7 @@ https://github.com/restrepo/ComputationalMethods
 * Tu upload your Homework navigate until the created directory and use the button `Add File` → `Upload file`. Then go to the end of the page and click on the "Commit new file" green button.
 * Finally click on the "Pull requests" tab → "New pull request" green button → "Create pull request" green button → Fill the "Title" box and click the "Create pull request" green button. 
 * Check that the pull request is effectively created in https://github.com/ComputationalMethods/Evaluacion_2020-2/
+* If any inconsitence appears please delete your repository and make the Fork again
 
 
 ## From the command line
